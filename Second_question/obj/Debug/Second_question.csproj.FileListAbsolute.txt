@@ -1,0 +1,6 @@
+c:\users\parse300\documents\visual studio 2012\Projects\Second_question\Second_question\bin\Debug\Second_question.exe.config
+c:\users\parse300\documents\visual studio 2012\Projects\Second_question\Second_question\bin\Debug\Second_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\Second_question\Second_question\bin\Debug\Second_question.pdb
+c:\users\parse300\documents\visual studio 2012\Projects\Second_question\Second_question\obj\Debug\Second_question.csprojResolveAssemblyReference.cache
+c:\users\parse300\documents\visual studio 2012\Projects\Second_question\Second_question\obj\Debug\Second_question.exe
+c:\users\parse300\documents\visual studio 2012\Projects\Second_question\Second_question\obj\Debug\Second_question.pdb
